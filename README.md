@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**UvDream/Uvdream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Welcome 👋
 
 - 🔭 中科曙光
 - 🌱 web前端
