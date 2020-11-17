@@ -2,6 +2,6 @@
 
 - 🔭 中科曙光
 - 🌱 web前端
-- 💬 https//www.uvdream.cn
+- 💬 http//www.uvdream.cn
 - 📫 uvdream@163.com
 
