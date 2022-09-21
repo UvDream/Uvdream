@@ -9,18 +9,18 @@
 
 # 统计
 
-<center>
+<div style="display:flex;justify-content: center;align-items: center;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
-</center>
+</div>
 
 # 语言
 
-<center>
+<div style="display:flex;justify-content: center;align-items: center;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvdream)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvdream&layout=compact) -->
 
-</center>
+</div>
