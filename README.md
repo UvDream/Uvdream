@@ -9,11 +9,6 @@
 - 💬 [https://uvdream.cn](https://uvdream.cn)
 - 📫 uvdream@163.com
 
-## 近期活跃图
-
-<div style="display:flex;justify-content: center;align-items: center;">
-
-![活跃图](https://activity-graph.herokuapp.com/graph?username=uvdream&hide_border=true&bg_color=fff&line=6493e9&color=6493e9&point=6493e9&custom_title=活跃图&hide_title=false)
 
 </div>
 
